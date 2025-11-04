@@ -1,10 +1,25 @@
 [![Header](https://github.com/KonstantinKovalenko/KonstantinKovalenko/blob/main/assets/headerpic.png)](https://www.linkedin.com/in/kostyantyn-kovalenko)
 
-## I'm a beginner QA engineer
+## A little something about myself
+Hey, visitor! My name is Konstantin, and I’m an aspiring QA Engineer with a strong technical background.
+
+I have hands-on experience in PC hardware assembly and maintenance, system administration, database management (SQL), and software analytics. My previous roles helped me develop strong analytical thinking, problem-solving skills, and a detail-oriented mindset — qualities that naturally align with software testing.
+
+I’m currently focusing on manual testing, studying testing methodologies, writing test cases, and working with Jira, Git, and Postman. My goal is to advance as a QA Engineer, expanding my skills in Java, Python, API testing, and other automation tools.
+
+I’m passionate about software quality, continuous improvement, and teamwork. Open to internship or junior QA positions where I can apply my skills and contribute to building reliable, user-friendly products.
+
+Let’s connect and build something great together!
+
+PS: Also, I have to admit, AI-created "AboutMe" part is kind of seroius, professional and dry. Who even believes it can be written personally without help? Yes, AI used background given by me and my own first version, still, it's end up somehow unnatural.
+
+So, I am middle-aged man, who eager to change his path, and really looking forward to be an automation QA Senior one day in a future.
+
+Have a gread day, fellow visitor!
 
 ### Languages and tools
-![Flutter](https://img.shields.io/badge/-Flutter-C9F0F8?style=for-the-badge&logo=Flutter&logoColor=1F1F1F)
+![Java](https://img.shields.io/badge/-Java-C9F0F8?style=for-the-badge&logo=Java&logoColor=1F1F1F)
 
 ## Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A9D9)](https://t.me/kovakost)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/kostyantyn-kovalenko)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostyantyn-kovalenko)
+[![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=27A9D9)](https://t.me/kovakost)
