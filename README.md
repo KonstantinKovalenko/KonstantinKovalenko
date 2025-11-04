@@ -16,10 +16,18 @@ Have a great day, fellow visitor!
 ### Languages and tools
 ![Java](https://img.shields.io/badge/-Java-368A5C?style=for-the-badge&logo=java&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-368A5C?style=for-the-badge&logo=postman&logocolor=orange)
-![GitHub](https://img.shields.io/badge/-GitHub-368A5C?style=for-the-badge&logo=github&logocolor=orange)
+![GitHub](https://img.shields.io/badge/-GitHub-368A5C?style=for-the-badge&logo=github&logocolor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-368A5C?style=for-the-badge&logo=nysql&logocolor=orange)
+![Jira](https://img.shields.io/badge/-Jira-368A5C?style=for-the-badge&logo=Jira&logocolor=white)
 
 ### Familiar with
 ![Swagger](https://img.shields.io/badge/-Swagger-2C5158?style=for-the-badge&logo=swaggerui&logoColor=black)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-2C5158?style=for-the-badge&logo=android&logoColor=green)
+![Agile&Scrum](https://img.shields.io/badge/-Agile_&_Scrum-2C5158?style=for-the-badge&logo=agile&logoColor=green)
+![SoapUI](https://img.shields.io/badge/-Soap_UI-2C5158?style=for-the-badge&logo=soapui&logoColor=green)
+![Fiddler](https://img.shields.io/badge/-Fiddler-2C5158?style=for-the-badge&logo=fiddler&logoColor=green)
+![Qase](https://img.shields.io/badge/-Qase-2C5158?style=for-the-badge&logo=qase&logoColor=green)
+![TestIT](https://img.shields.io/badge/-Test_IT-2C5158?style=for-the-badge&logo=testit&logoColor=green)
 
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kostyantyn-kovalenko)
