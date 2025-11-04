@@ -18,8 +18,8 @@ So, I am middle-aged man, who eager to change his path, and really looking forwa
 Have a gread day, fellow visitor!
 
 ### Languages and tools
-![Java](https://img.shields.io/badge/-Java-C9F0F8?style=for-the-badge&logo=Java&logoColor=1F1F1F)
+![Java](https://img.shields.io/badge/-Java-C9F0F8?style=for-the-badge&logo=java&logoColor=1F1F1F)
 
 ## Follow me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostyantyn-kovalenko)
-[![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=27A9D9)](https://t.me/kovakost)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kostyantyn-kovalenko)
+[![Telegram](https://img.shields.io/badge/-Telegram-084391?style=for-the-badge&logo=Telegram&logoColor=27A9D9)](https://t.me/kovakost)
