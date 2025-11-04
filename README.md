@@ -11,11 +11,11 @@ I’m passionate about software quality, continuous improvement, and teamwork. O
 
 Let’s connect and build something great together!
 
-PS: Also, I have to admit, AI-created "AboutMe" part is kind of seroius, professional and dry. Who even believes it can be written personally without help? Yes, AI used background given by me and my own first version, still, it's end up somehow unnatural.
+PS: Also, I have to admit, AI-created "AboutMe" part is kind of seroius, professional and dry. Who even believes it can be written personally without help? Yes, AI used background given by me and my own first version, still, it ends up somehow unnatural.
 
-So, I am middle-aged man, who eager to change his path, and really looking forward to be an automation QA Senior one day in a future.
+So, I am middle-aged man, who eager to change his path and really looking forward to be an automation QA Senior one day in a future.
 
-Have a gread day, fellow visitor!
+Have a great day, fellow visitor!
 
 ### Languages and tools
 ![Java](https://img.shields.io/badge/-Java-C9F0F8?style=for-the-badge&logo=java&logoColor=1F1F1F)
