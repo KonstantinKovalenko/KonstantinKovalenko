@@ -32,3 +32,5 @@ Have a great day, fellow visitor!
 ### Follow me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/kostyantyn-kovalenko)
 [![Telegram](https://img.shields.io/badge/-Telegram-084391?style=for-the-badge&logo=Telegram&logoColor=27A9D9)](https://t.me/kovakost)
+
+#### v. 1.4
