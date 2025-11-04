@@ -16,6 +16,7 @@ Have a great day, fellow visitor!
 ### Languages and tools
 ![Java](https://img.shields.io/badge/-Java-368A5C?style=for-the-badge&logo=java&logoColor=black)
 ![Postman](https://img.shields.io/badge/-Postman-368A5C?style=for-the-badge&logo=postman&logocolor=orange)
+![GitHub](https://img.shields.io/badge/-GitHub-368A5C?style=for-the-badge&logo=github&logocolor=orange)
 
 ### Familiar with
 ![Swagger](https://img.shields.io/badge/-Swagger-2C5158?style=for-the-badge&logo=swaggerui&logoColor=black)
