@@ -8,7 +8,7 @@ I’m currently focusing on manual testing, studying testing methodologies, writ
 
 I’m passionate about software quality, continuous improvement, and teamwork. Open to internship or junior QA positions where I can apply my skills and contribute to building reliable, user-friendly products.
 
-PS: Also, I have to admit, AI-created "AboutMe" part is kind of seroius, professional and dry. Who even believes it can be written personally without help? Yes, AI used background given by me and my own first version, still, it ends up somehow unnatural.
+PS: Also, I have to admit, AI-created "AboutMe" part is kind of seroius, professional and <i>dry</i>. I think, no one even believes such pro-ideal intro can be written personally without AI help. Sure, AI used background given by me and my own first version, still, it ends up somehow unnatural.
 So, I am middle-aged man, who eager to change his path and really looking forward to be an automation QA Senior one day in a future.
 
 Have a great day, fellow visitor!
